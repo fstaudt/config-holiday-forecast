@@ -1,0 +1,10 @@
+legal:
+  holiday:
+    list:
+      - payroll: BE
+        dates:
+          - 20180101
+          - 20180403
+      - payroll: IN
+        dates:
+          - 20180101
