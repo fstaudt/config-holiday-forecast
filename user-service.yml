@@ -1,0 +1,13 @@
+user:
+  payroll:
+    list:
+      - id: BE
+      - id: IN
+  team:
+    list:
+      - id: B2CSK
+        name: B2C service kit
+      - id: XCL
+        name: XCL
+      - id: FRONT
+        name: Front
