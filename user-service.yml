@@ -11,3 +11,5 @@ user:
         name: XCL
       - id: FRONT
         name: Front
+      - id: CORE
+        name: Core team
