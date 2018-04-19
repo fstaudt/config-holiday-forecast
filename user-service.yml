@@ -5,13 +5,15 @@ user:
       - id: IN
   team:
     list:
-      - id: B2CSK
-        name: B2C service kit
-      - id: PSD2CBS
-        name: PSD2-CBS
       - id: FRONT
         name: Front
       - id: CORE
         name: Core team
       - id: B2CDXP
         name: B2Potatoes
+      - id: WB_BE
+        name: Web Banking BE
+      - id: WB_SGI
+        name: Web Banking SGI
+      - id: WB_PS
+        name: Web Banking PS
