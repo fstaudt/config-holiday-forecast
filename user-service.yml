@@ -2,13 +2,21 @@ user:
   payroll:
     list:
       - id: BE
+      - id: FR
+      - id: LU
       - id: IN
   team:
     list:
-      - id: FRONT
-        name: Front
-      - id: CORE
-        name: Core team
+      - id: COPS
+        name: The mighty cops
+      - id: REPTILIENS
+        name: DxP Reptiliens
+      - id: SHLAGS
+        name: Shlags
+      - id: DXP_CORE
+        name: DxP core team
+      - id: B2C_CORE
+        name: Channels core team
       - id: B2CDXP
         name: B2Potatoes
       - id: WB_BE
