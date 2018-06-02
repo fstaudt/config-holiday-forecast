@@ -9,6 +9,8 @@ user:
     list:
       - id: COPS
         name: The mighty cops
+      - id: CICD
+        name: CICD
       - id: REPTILIENS
         name: DxP Reptiliens
       - id: SHLAGS
