@@ -12,9 +12,11 @@ user:
       - id: CICD
         name: CICD
       - id: REPTILIENS
-        name: DxP Reptiliens
+        name: Reptiliens
       - id: SHLAGS
         name: Shlags
+      - id: CE
+        name: CE
       - id: DXP_CORE
         name: DxP core team
       - id: B2C_CORE
