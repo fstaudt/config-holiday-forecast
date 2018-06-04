@@ -2,16 +2,30 @@ user:
   payroll:
     list:
       - id: BE
+      - id: FR
+      - id: LU
       - id: IN
   team:
     list:
-      - id: B2CSK
-        name: B2C service kit
-      - id: PSD2CBS
-        name: PSD2-CBS
-      - id: FRONT
-        name: Front
-      - id: CORE
-        name: Core team
+      - id: COPS
+        name: The mighty cops
+      - id: CICD
+        name: CICD
+      - id: REPTILIENS
+        name: Reptiliens
+      - id: SHLAGS
+        name: Shlags
+      - id: CE
+        name: CE
+      - id: DXP_CORE
+        name: DxP core team
+      - id: B2C_CORE
+        name: Channels core team
       - id: B2CDXP
         name: B2Potatoes
+      - id: WB_BE
+        name: Web Banking BE
+      - id: WB_SGI
+        name: Web Banking SGI
+      - id: WB_PS
+        name: Web Banking PS
