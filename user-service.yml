@@ -8,24 +8,30 @@ user:
   team:
     list:
       - id: COPS
-        name: The mighty cops
+        name: DXP cops
       - id: CICD
-        name: CICD
+        name: DxP CICD
       - id: REPTILIENS
-        name: Reptiliens
+        name: DxP Reptiliens
       - id: SHLAGS
-        name: Shlags
+        name: DxP Shlags
       - id: CE
-        name: CE
+        name: DxP CE
       - id: DXP_CORE
         name: DxP core team
+      - id: B2CDXP
+        name: Channels B2Potatoes
+      - id: WB_BE
+        name: Channels Web Banking BE
+      - id: WB_SGI
+        name: Channels Web Banking SGI
+      - id: WB_PS
+        name: Channels Web Banking PS
       - id: B2C_CORE
         name: Channels core team
-      - id: B2CDXP
-        name: B2Potatoes
-      - id: WB_BE
-        name: Web Banking BE
-      - id: WB_SGI
-        name: Web Banking SGI
-      - id: WB_PS
-        name: Web Banking PS
+      - id: CLOUD_TECH
+        name: Cloud native technical
+      - id: CLOUD_FUNCT
+        name: Cloud native functional
+      - id: CLOUD_CORE
+        name: Cloud native core team
