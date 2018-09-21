@@ -25,13 +25,17 @@ user:
         name: Channels Web Banking BE
       - id: WB_SGI
         name: Channels Web Banking SGI
-      - id: WB_PS
-        name: Channels Web Banking PS
       - id: B2C_CORE
         name: Channels core team
+      - id: CLOUD_CHIMAY
+        name: Cloud native Chimay
+      - id: CLOUD_CHOUFFE
+        name: Cloud native Chouffe
+      - id: CLOUD_KINGFISHER
+        name: Cloud native Kingfisher
+      - id: CLOUD_CORE
+        name: Cloud native core team
       - id: CLOUD_TECH
         name: Cloud native technical
       - id: CLOUD_FUNCT
         name: Cloud native functional
-      - id: CLOUD_CORE
-        name: Cloud native core team
