@@ -35,7 +35,3 @@ user:
         name: Cloud native Kingfisher
       - id: CLOUD_CORE
         name: Cloud native core team
-      - id: CLOUD_TECH
-        name: Cloud native technical
-      - id: CLOUD_FUNCT
-        name: Cloud native functional
