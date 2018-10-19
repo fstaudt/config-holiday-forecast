@@ -72,7 +72,7 @@ leave:
             - 20181019
             - 20181107
             - 20181225
-        - payroll: EN
+        - payroll: GB_EN
           dates:
             - 20180101
             - 20180330
@@ -90,7 +90,7 @@ leave:
             - 20190826
             - 20191225
             - 20191226
-        - payroll: SC
+        - payroll: GB_SC
           dates:
             - 20180101
             - 20180102
