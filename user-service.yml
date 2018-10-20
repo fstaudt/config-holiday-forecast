@@ -5,6 +5,8 @@ user:
       - id: FR
       - id: LU
       - id: IN
+      - id: GB_EN
+      - id: GB_SC
   team:
     list:
       - id: COPS
