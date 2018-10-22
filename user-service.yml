@@ -3,26 +3,12 @@ user:
     list:
       - id: BE
       - id: FR
-      - id: LU
-      - id: IN
       - id: GB_EN
       - id: GB_SC
+      - id: IN
+      - id: LU
   team:
     list:
-      - id: COPS
-        name: DXP cops
-      - id: CICD
-        name: DxP CICD
-      - id: REPTILIENS
-        name: DxP Reptiliens
-      - id: SHLAGS
-        name: DxP Shlags
-      - id: AVENGERS
-        name: DxP Avengers
-      - id: CE
-        name: DxP CE
-      - id: DXP_CORE
-        name: DxP core team
       - id: B2CDXP
         name: Channels B2Potatoes
       - id: WB_BE
@@ -39,3 +25,17 @@ user:
         name: Cloud native Kingfisher
       - id: CLOUD_CORE
         name: Cloud native core team
+      - id: AVENGERS
+        name: DxP Avengers
+      - id: CE
+        name: DxP CE
+      - id: CICD
+        name: DxP CICD
+      - id: COPS
+        name: DxP Cops
+      - id: REPTILIENS
+        name: DxP Reptiliens
+      - id: SHLAGS
+        name: DxP Shlags
+      - id: DXP_CORE
+        name: DxP core team
