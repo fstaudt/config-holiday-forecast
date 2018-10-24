@@ -39,3 +39,7 @@ user:
         name: DxP Shlags
       - id: DXP_CORE
         name: DxP core team
+      - id: AB_SGI
+        name: Agent Banking SGI
+      - id: AB_BXL
+        name: Agent Banking BXL
