@@ -1,3 +1,48 @@
+user:
+  team:
+    list:
+      - id: B2CDXP
+        name: Channels B2Potatoes
+      - id: WB_BE
+        name: Channels Web Banking BE
+      - id: WB_SGI
+        name: Channels Web Banking SGI
+      - id: B2C_CORE
+        name: Channels core team
+      - id: CLOUD_CHIMAY
+        name: Cloud native Chimay
+      - id: CLOUD_CHOUFFE
+        name: Cloud native Chouffe
+      - id: CLOUD_KINGFISHER
+        name: Cloud native Kingfisher
+      - id: CLOUD_CORE
+        name: Cloud native core team
+      - id: AVENGERS
+        name: DxP Avengers
+      - id: CE
+        name: DxP CE
+      - id: CICD
+        name: DxP CICD
+      - id: COPS
+        name: DxP Cops
+      - id: REPTILIENS
+        name: DxP Reptiliens
+      - id: SHLAGS
+        name: DxP Shlags
+      - id: DXP_CORE
+        name: DxP core team
+      - id: AB_SGI
+        name: Agent Banking SGI
+      - id: AB_BXL
+        name: Agent Banking BXL
+  payroll:
+    list:
+      - id: BE
+      - id: FR
+      - id: GB_EN
+      - id: GB_SC
+      - id: IN
+      - id: LU
 leave:
   legal:
     holiday:
