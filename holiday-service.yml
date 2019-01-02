@@ -29,6 +29,8 @@ user:
         name: DxP Reptiliens
       - id: SHLAGS
         name: DxP Shlags
+      - id: QUANTUM
+        name: DxP Quantum
       - id: DXP_CORE
         name: DxP core team
       - id: AB_SGI
