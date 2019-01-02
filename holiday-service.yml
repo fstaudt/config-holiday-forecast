@@ -25,12 +25,12 @@ user:
         name: DxP CICD
       - id: COPS
         name: DxP Cops
+      - id: QUANTUM
+        name: DxP Quantum
       - id: REPTILIENS
         name: DxP Reptiliens
       - id: SHLAGS
         name: DxP Shlags
-      - id: QUANTUM
-        name: DxP Quantum
       - id: DXP_CORE
         name: DxP core team
       - id: AB_SGI
