@@ -1,13 +1,23 @@
 user:
   team:
     list:
-      - id: B2CDXP
-        name: Channels B2Potatoes
-      - id: WB_BE
-        name: Channels Web Banking BE
-      - id: WB_SGI
-        name: Channels Web Banking SGI
-      - id: B2C_CORE
+      - id: AB_SGI
+        name: Agent Banking SGI
+      - id: AB_BXL
+        name: Agent Banking BXL
+      - id: CHANNELS_BIRYANI
+        name: Channels - biryani
+      - id: CHANNELS_CALZONE
+        name: Channels - calzone
+      - id: CHANNELS_FOUFOU
+        name: Channels - foufou
+      - id: CHANNELS_KALAKAND
+        name: Channels - kalakand
+      - id: CHANNELS_PEANUTS
+        name: Channels - peanuts
+      - id: CHANNELS_SAKE
+        name: Channels - saké
+      - id: CHANNELS_CORE
         name: Channels core team
       - id: CLOUD_CHIMAY
         name: Cloud native Chimay
@@ -33,10 +43,14 @@ user:
         name: DxP Shlags
       - id: DXP_CORE
         name: DxP core team
-      - id: AB_SGI
-        name: Agent Banking SGI
-      - id: AB_BXL
-        name: Agent Banking BXL
+      - id: B2CDXP
+        name: (old) Channels B2Potatoes
+      - id: WB_BE
+        name: (old) Channels Web Banking BE
+      - id: WB_SGI
+        name: (old) Channels Web Banking SGI
+      - id: B2C_CORE
+        name: (old) Channels core team
   payroll:
     list:
       - id: BE
