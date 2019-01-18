@@ -5,6 +5,8 @@ user:
         name: Agent Banking SGI
       - id: AB_BXL
         name: Agent Banking BXL
+      - id: AVENGERS
+        name: DxP Avengers
       - id: CHANNELS_BIRYANI
         name: Channels - biryani
       - id: CHANNELS_CALZONE
@@ -27,22 +29,22 @@ user:
         name: Cloud native Kingfisher
       - id: CLOUD_CORE
         name: Cloud native core team
-      - id: AVENGERS
-        name: DxP Avengers
       - id: CE
         name: DxP CE
       - id: CICD
         name: DxP CICD
       - id: COPS
         name: DxP Cops
+      - id: DXP_CORE
+        name: DxP core team
+      - id: DXP_SUICIDE_SQUAD
+        name: DxP Suicide Squad
       - id: QUANTUM
         name: DxP Quantum
       - id: REPTILIENS
-        name: DxP Reptiliens
+        name: (old) DxP Reptiliens
       - id: SHLAGS
         name: DxP Shlags
-      - id: DXP_CORE
-        name: DxP core team
       - id: B2CDXP
         name: (old) Channels B2Potatoes
       - id: WB_BE
