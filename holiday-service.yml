@@ -49,10 +49,6 @@ user:
         name: (old) Channels Web Banking BE
       - id: WB_SGI
         name: (old) Channels Web Banking SGI
-      - id: B2C_CORE
-        name: (old) Channels core team
-      - id: REPTILIENS
-        name: (old) DxP Reptiliens
   payroll:
     list:
       - id: BE
