@@ -25,6 +25,8 @@ user:
         name: Cloud native Chouffe
       - id: CLOUD_KINGFISHER
         name: Cloud native Kingfisher
+      - id: CLOUD_TROLLS
+        name: Cloud native Trolls
       - id: CLOUD_CORE
         name: Cloud native core team
       - id: AVENGERS
